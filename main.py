@@ -2,4 +2,4 @@
 
 print('Hello, world!')
 print('Have a great day!')
-print('kazu and nic rocks the socks hahahahahaha')
+print('git sucks hahahahahaha')
