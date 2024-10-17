@@ -2,4 +2,4 @@
 
 print('Hello, world!')
 print('Have a great day!')
-print('Meow hahahahahaha')
+print('kazu and nic rocks the socks hahahahahaha')
